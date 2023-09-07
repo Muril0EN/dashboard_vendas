@@ -1,0 +1,5 @@
+#esse doc é a primeira etapa necessária para fazer o deploy, precisa conter a lista com as bibliotecas com suas respectivas versões
+#para verificar versões -> pip feeze no terminal
+plotly==5.16.1
+pandas==2.1.0
+requests==2.31.0
